@@ -3,7 +3,7 @@ from telebot import types
 import RatePrice
 import time
 
-# types.ReplyKeyboardRemove()
+
 API_TOKEN = 'YOUR API TOKEN'
 
 bot = telebot.TeleBot(API_TOKEN)
